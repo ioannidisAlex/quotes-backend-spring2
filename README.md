@@ -1,2 +1,2 @@
 # quotes-backend-spring
-A crud app built with containers. It has API endpoints, testing and structure based on good practises
+A crud app. Uses database, mariaDB, and the gateway. It has API endpoints, testing and structure based on good practises.
